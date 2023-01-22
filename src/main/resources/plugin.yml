@@ -1,0 +1,7 @@
+name: ChatExplosion
+version: 1.0-SNAPSHOT
+main: io.github.staudlol.explosion.ExplosionSpigotPlugin
+author: Staud
+
+commands:
+  explosion:
